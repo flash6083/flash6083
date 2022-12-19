@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on A Personalised Blog Website!
 
-- 🌱 I’m currently learning Backend Development with Node. Machine Learning with Keras and Tensorflow 
+- 🌱 I’m currently developing a full stack Machine Learning based project with Keras and Tensorflow 
 
-- 👯 I’m looking to collaborate on Frontend Web Development Projects. 
+- 👯 I’m looking to collaborate on ML and Full Stack Web Development Projects. 
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunities, Machine Learning, Flutter,  Open Source, Entrepreneurship, Web Development and UI/UX Designing 
 
