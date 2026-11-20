@@ -1,77 +1,126 @@
-<div align="center">
-<img width="50%" height = "50%" src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.jpg" alt="cover" />
-</div>
+<h1 align="center">Hi, I'm Sayak Bhattacharya 👋</h1>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=flash6083.flash6083)
-
+<p align="center">
+  <b>Full-stack developer · ML & computer-vision practitioner · UI/UX designer</b><br/>
+  Kolkata, India · <i>Code to Create!</i>
 </p>
-<div size='20px'> Hi! My name is Sayak Bhattacharya . Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayak-bhattacharya-ab62041a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SayakBh77733222"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/flash6083?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+---
 
+### 🧭 About me
 
-- 🔭 I’m currently working on A Personalised Blog Website!
+I build things end to end: training the model, writing the API around it and designing the screen people actually use. My work sits where **applied machine learning** meets **product engineering**:
 
-- 🌱 I’m currently developing a full stack Machine Learning based project with Keras and Tensorflow 
+- 🔬 **Computer vision & deep learning:** biometric identification, medical imaging, CNNs from scratch
+- 🧠 **NLP & LLMs:** RAG chatbots, transformer-based sentiment analysis, embeddings and information extraction
+- 🛠️ **Developer tooling for AI:** observability for Model Context Protocol (MCP) servers
+- 🌐 **Full-stack web & mobile:** Next.js / React / Node on the web, React Native and Flutter on mobile
+- 🎨 **UI/UX design:** Figma, Framer and Adobe XD before a line of code is written
 
-- 👯 I’m looking to collaborate on ML and Full Stack Web Development Projects. 
+### 🔭 What I'm working on now
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunities, Machine Learning, Flutter,  Open Source, Entrepreneurship, Web Development and UI/UX Designing 
+- **[mcpscope](https://github.com/flash6083/mcpscope):** local observability for MCP traffic. A drop-in proxy (stdio + Streamable HTTP) that records JSON-RPC frames and OpenTelemetry-style spans in SQLite, with a live dashboard for latency, tools, sessions and errors. Shipped as an npm CLI.
+- **[Cattle muzzle biometrics](https://github.com/flash6083/muzzle_biometric_cattle_identification):** open-set cattle identification from muzzle images. YOLOv8-pose detection and alignment, ArcFace/CosFace metric learning, self-supervised pretraining and attention-based multi-shot fusion, evaluated with EER / ROC-AUC / TAR@FAR.
+- **[Stride](https://github.com/flash6083/stride):** an AI-powered fitness tracking app built with React Native, Expo Router and NativeWind.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=materialize&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=pug&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pug.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=framer&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/framer.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
-<a href= https://github.com/flash6083?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+---
 
+### 🚀 Featured projects
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/sayak-bhattacharya-ab62041a8/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/@SayakBh77733222'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/flash6083'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+#### 🤖 AI · ML · Research
 
+| Project | What it does | Stack |
+|---|---|---|
+| [muzzle_biometric_cattle_identification](https://github.com/flash6083/muzzle_biometric_cattle_identification) | Open-set animal biometrics pipeline, from dataset audit to verification benchmark | PyTorch, YOLOv8, timm, Kornia, OpenCV, W&B |
+| [rag_llm_chatbot](https://github.com/flash6083/rag_llm_chatbot) | RAG-powered assistant for the CS Department at NIT Rourkela, built on Phi-3 | LLMs, RAG, TypeScript |
+| [SpineClassification](https://github.com/flash6083/SpineClassification) · [spineDetectionClassification](https://github.com/flash6083/spineDetectionClassification) | Dendritic spine detection and classification with deep learning | Python, Deep Learning |
+| [DatasetName_extraction_with_GROBID](https://github.com/flash6083/DatasetName_extraction_with_GROBID) | Extracts dataset names from research papers | Python, GROBID, NLP |
+| [tweet_sentiment_analysis](https://github.com/flash6083/tweet_sentiment_analysis) | Tweet sentiment with `twitter-roberta-base` | Transformers, Python |
+| [PyTorch_ML_models](https://github.com/flash6083/PyTorch_ML_models) | Linear regression and CNNs implemented from scratch | PyTorch |
+| [Malaria_Cell_Detection_TF_CNN](https://github.com/flash6083/Malaria_Cell_Detection_TF_CNN) | Parasitized vs. uninfected cell classification | TensorFlow, Keras Functional API |
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@flash6083&compact=True"/>
-</a>
-<br>
+#### 🌐 Full-stack, mobile & tooling
 
+| Project | What it does | Stack |
+|---|---|---|
+| [mcpscope](https://github.com/flash6083/mcpscope) | Zero-code-change observability proxy and dashboard for MCP servers | TypeScript, Node 22, SQLite, OTLP |
+| [duarpe_frontend](https://github.com/flash6083/duarpe_frontend) | Admin dashboard with analytics, server-side tables and a Kanban board | Next.js 15, React 19, Tailwind v4, shadcn/ui, Zustand, Zod |
+| [twitter_flask_dashboard](https://github.com/flash6083/twitter_flask_dashboard) | Pulls tweets via the X API v2 into Postgres behind a searchable UI | Flask, PostgreSQL, TailwindCSS |
+| [stride](https://github.com/flash6083/stride) | AI-powered fitness tracker | React Native, Expo, NativeWind |
+| [WaveLink_Flutter](https://github.com/flash6083/WaveLink_Flutter) | Messaging app for community chats | Flutter, Dart |
+| [streaming_platform](https://github.com/flash6083/streaming_platform) + [backend](https://github.com/flash6083/streaming_platform_backend) | Online video streaming platform | JavaScript, Node.js |
+| [student_grade_analyzer](https://github.com/flash6083/student_grade_analyzer) | Year-wise student grade monitoring with 3D charts | JavaScript |
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<details>
+<summary><b>📚 More ML experiments & learning projects</b></summary>
+<br/>
 
-![Metrics](https://metrics.lecoq.io/flash6083?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+- **NLP / embeddings:** [Sentiment-Analysis_nnlm-en-dim128](https://github.com/flash6083/Sentiment-Analysis_nnlm-en-dim128) (IMDB, TF Hub) · [Word2Vec](https://github.com/flash6083/Word2Vec) (gensim) · [TF-IDF](https://github.com/flash6083/TF-IDF) recommender
+- **Computer vision:** [TF_Cifar10](https://github.com/flash6083/TF_Cifar10) · [TF_FashionMnsit_Conv2D](https://github.com/flash6083/TF_FashionMnsit_Conv2D) · [Tf_mnsit](https://github.com/flash6083/Tf_mnsit)
+- **Classical ML & analysis:** [RandomForrest_pizzaPricePrediction](https://github.com/flash6083/RandomForrest_pizzaPricePrediction) · [LinearRegression_Ecommerce](https://github.com/flash6083/LinearRegression_Ecommerce) · [Tensorflow-LR-Moore-s-Law-](https://github.com/flash6083/Tensorflow-LR-Moore-s-Law-)
+- **Web:** [ConferenceWebsite](https://github.com/flash6083/ConferenceWebsite) (TMSL) · [Nike_Tailwind_Website](https://github.com/flash6083/Nike_Tailwind_Website) · [supplify](https://github.com/flash6083/supplify) · [Python-Chat-Application](https://github.com/flash6083/Python-Chat-Application) (sockets)
+- **Open source:** Hacktoberfest 2022 contributor and maintainer of [HacktoberFest-GUI-Projects-and-Games](https://github.com/flash6083/HacktoberFest-GUI-Projects-and-Games)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+</details>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+---
+
+### 🧰 Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,dart,html,css,sass&perline=10" alt="Languages"/>
+</p>
+
+**AI / ML / Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="AI/ML"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG_&_LLMs-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+**Web, mobile & backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind,bootstrap,vue,flutter,pug&perline=10" alt="Web"/>
+</p>
+
+**Databases, cloud & tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,heroku,vercel,git,webpack,linux&perline=10" alt="Tooling"/>
+</p>
+
+**Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps&perline=10" alt="Design"/>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=flash6083&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flash6083&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=flash6083&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+### 🤝 Let's collaborate
+
+I'm open to collaborating on **ML / computer-vision research**, **LLM & agent tooling**, and **full-stack products**, and to freelance work in web development and UI/UX. Happy to talk Python, JavaScript/TypeScript, deep learning, open source or entrepreneurship. Reach out on [LinkedIn](https://www.linkedin.com/in/sayak-bhattacharya-ab62041a8/).
